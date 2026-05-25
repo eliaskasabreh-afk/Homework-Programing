@@ -1,0 +1,3 @@
+Task 1 of Homework.
+I created this file in Google Colab.
+It is pushed in Repo!
