@@ -1,2 +1,8 @@
 Homework.
 Elias, C4R5TYLets gooooo
+
+
+My comments:
+Animal task: you should always check the written class definitions by creating instances and the „Explain your choice” is missing.
+At the last task: „Try ith with other examples!” is missing.
+The others are all right, thank you for your work! 
